@@ -1,0 +1,8 @@
+name: lgpl3-license
+version: 0.1.0
+description: GNU Lesser General Public License v3.0 generator
+
+gen:
+  file:
+    license:
+      dest: LICENSE
