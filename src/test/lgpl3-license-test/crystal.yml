@@ -1,0 +1,7 @@
+name: lgpl3-license-test
+version: 0.1.0
+description: lgpl3-license test
+
+generators:
+  lgpl3-license:
+    version: latest

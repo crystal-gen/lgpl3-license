@@ -2,7 +2,17 @@ name: lgpl3-license
 version: 0.1.0
 description: GNU Lesser General Public License v3.0 generator
 
+author:
+  name: Chris Tate
+  email: chris@studiotate.com
+  url: http://studiotate.com
+copyright: 2015 Studio Tate
+
 gen:
   file:
     license:
       dest: LICENSE
+
+generators:
+  project:
+    version: latest
